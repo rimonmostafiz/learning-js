@@ -4,8 +4,8 @@ const name = 'Mohammad';
 const age = 30;
 
 // Concatenation
-x = "Hi, my name is " + name + " " + "and I'm " + age + 
-" " + "years old."
+x = "Hi, my name is " + name + " " + "and I'm " + age +
+    " " + "years old."
 
 // Template Literals
 x = `Hello, my name is ${name} and I'm ${age} years old`;

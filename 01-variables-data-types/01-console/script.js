@@ -17,7 +17,7 @@ console.warn('Warning');
 
 // Conditional Log
 let age = 15;
-
+ß
 if (age < 0) {
     console.error('Age cant be negative number');
 } else {
@@ -25,7 +25,7 @@ if (age < 0) {
 }
 
 // Log object 
-const person = {name: 'Mr A', email: 'mra@mail.com'};
+const person = { name: 'Mr A', email: 'mra@mail.com' };
 console.log(person);
 
 // Log object as table

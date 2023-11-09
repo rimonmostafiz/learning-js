@@ -24,7 +24,7 @@ const obj1 = { a: 1, b: 2 };
 const obj2 = { c: 3, d: 4 };
 
 // Spread operator
-const obj3 = {...obj1, ...obj2};
+const obj3 = { ...obj1, ...obj2 };
 x = obj3;
 
 // Same as using ...

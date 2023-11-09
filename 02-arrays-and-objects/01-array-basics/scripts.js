@@ -2,7 +2,7 @@ let x;
 
 // Array Literal
 const numbers = [12, 28, 33, 37, 29, 100];
-              //[ 0,  1,  2,  3,  4,   5]
+//[ 0,  1,  2,  3,  4,   5]
 
 const midex = [12, 'hello', null, true, undefined];
 

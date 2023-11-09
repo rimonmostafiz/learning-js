@@ -19,10 +19,10 @@ const todo = {
     }
 }
 
-const  { 
-    id: todoId, 
-    title, 
-    user: { name, age1 } 
+const {
+    id: todoId,
+    title,
+    user: { name, age1 }
 } = todo;
 
 console.log(todoId, title, name, age1);

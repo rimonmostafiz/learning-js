@@ -32,7 +32,7 @@ x = person.isAdmin;
 person.isEmployed = true;
 person['isMarried'] = false;
 
-person.greet = function() {
+person.greet = function () {
     // let name;
     // let age;
     // let location;

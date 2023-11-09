@@ -33,6 +33,7 @@ x = Math.floor(Math.random() * 100 + 1);
 
 let min = 10;
 let max = 100;
+
 // Get a random number between min and max(exclusive)
 x = Math.floor(Math.random() * (max - min) + min);
 // Get a random number between min and max(inclusive)
