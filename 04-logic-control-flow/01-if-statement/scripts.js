@@ -1,3 +1,4 @@
+// If (expression) -> expression will execute and result in true/false
 if (true) {
     console.log('this is true');
 }
@@ -34,7 +35,7 @@ if (x > y) z = true;
 else z = false;
 
 // Shorthand with multiple line using comman(,) is not suggested
-if (x > y) z = true, 
-    console.log('inside if condition'), 
+if (x > y) z = true,
+    console.log('inside if condition'),
     console.log(`${x} is greater than ${y}`);
 else z = false;

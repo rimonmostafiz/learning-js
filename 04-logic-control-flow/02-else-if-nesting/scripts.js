@@ -21,7 +21,7 @@ if (hour < 6) {
     console.log('Good Afternoon');
 } else if (hour < 19) {
     console.log('Good Evening')
-} 
+}
 
 console.log('----------')
 
@@ -53,7 +53,7 @@ if (hour >= 8 && hour <= 16) {
 }
 
 // 6AM or 9AM
-if (hour === 6  || hour === 21) {
+if (hour === 6 || hour === 21) {
     console.log('Brush your teeth!');
 }
 
