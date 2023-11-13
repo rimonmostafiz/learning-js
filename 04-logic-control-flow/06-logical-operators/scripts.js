@@ -24,6 +24,7 @@ b = 0 || null || '' || undefined;
 
 console.log(b);
 
+// Nullish coalescing operator
 // ?? - Returns the right side operand when the left is null or undefied
 
 let c;
